@@ -1,3 +1,4 @@
 
 nombre=input("Ingresa tu nombre: ")
-print("Hola "+nombre+" !")
+profesion=input("Ingresa tu profesion")
+print("Hola "+nombre+" "+profesion+" !")
